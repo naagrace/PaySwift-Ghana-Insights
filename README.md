@@ -1,9 +1,10 @@
 # 📊 PaySwift Ghana: Data-Driven Insights for Feature Adoption, Loan Repayments & Retention  
 
 ## 📸 Dashboard Preview  
-![Dashboard Preview](images/dashboard_page1.png)  
-![Dashboard Preview](images/dashboard_page2.png)  
-
+<p align="center">
+  <img src="dashboard_page1.png" alt="Dashboard Page 1" width="45%"/>
+  <img src="dashboard_page2.png" alt="Dashboard Page 2" width="45%"/>
+</p>
 
 ---
 
